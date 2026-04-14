@@ -46,8 +46,8 @@ const Hero = () => {
 
           <div style={socialStyle}>
             <a href="https://github.com/robink2404" target="_blank" rel="noreferrer" style={iconLinkStyle}><FiGithub size={24} /></a>
-            <a href="https://linkedin.com/in/robin" target="_blank" rel="noreferrer" style={iconLinkStyle}><FiLinkedin size={24} /></a>
-            <a href="mailto:robink2404@gmail.com" style={iconLinkStyle}><FiMail size={24} /></a>
+            <a href="https://www.linkedin.com/in/robin-saw-606506238/" target="_blank" rel="noreferrer" style={iconLinkStyle}><FiLinkedin size={24} /></a>
+            <a href="#contact" style={iconLinkStyle}><FiMail size={24} /></a>
           </div>
         </motion.div>
       </div>
